@@ -34,3 +34,6 @@ resumes/*.pdf
 # spaCy model cache (optional)
 # ----------------------------
 *.spacy
+
+
+.streamlit/

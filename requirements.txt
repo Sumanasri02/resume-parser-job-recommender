@@ -1,2 +1,7 @@
+fastapi
+uvicorn
+python-multipart
 spacy
-en_core_web_sm
+scikit-learn
+streamlit
+pdfplumber
